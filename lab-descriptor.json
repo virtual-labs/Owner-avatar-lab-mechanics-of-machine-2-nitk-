@@ -60,7 +60,7 @@
       "short-name": "tchebichev-straight-line",
       "repo": "https://github.com/virtual-labs/exp-tchebichev-straight-line-nitk",
       "tag": "v0.0.2",
-      "deploy": false
+      "deploy": true
     },
     {
       "name": "Whitworth Mechanism",
